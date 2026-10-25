@@ -51,6 +51,3 @@ The project uses the following standard Python data science libraries:
 - Low regularization ($\alpha = 0.1$) yields identical performance to standard Linear Regression ($R^2 \approx 0.6457$).
 - Moderate regularization ($\alpha = 10.0$) slightly penalizes model weights with minimal loss in $R^2$ ($0.6443$).
 - Excessive regularization ($\alpha = 1000.0$) results in severe underfitting, dropping the $R^2$ score significantly to $0.3574$.
-
-https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
